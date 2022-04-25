@@ -46,4 +46,3 @@ javascript:(function(){var RecordId = prompt('Record Id:');window.open(`/${Recor
 _(Firefox)_
 
 ![firefox gif](assets/firefox.gif?raw=true)
-![keyword setup](assets/keywords.png?raw=true)
