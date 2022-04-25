@@ -1,5 +1,7 @@
 # Salesforce Bookmarklets
 
+![bookmarks overview](https:// "Salesforce Bookmarks Overview")
+
 ### Switch to Classic
 ```js
 javascript:(function(){window.open("/ltng/switcher?destination=classic","_blank");})()
