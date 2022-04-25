@@ -1,7 +1,7 @@
 # Salesforce Bookmarklets
 
 <div style="width:90%;margin:0 auto;>
-    ![bookmarks overview](assets/overview.gif "Salesforce Bookmarks Overview")
+    ![bookmarks overview](https://github.com/markledden/salesforce-bookmarks/blob/5ec8a52f11fc4cfa727548bd788f11fc8f04e8ae/assets/overview.gif?raw=true "Salesforce Bookmarks Overview")
 </div>
 
 
