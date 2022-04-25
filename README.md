@@ -1,4 +1,5 @@
-# Salesforce Bookmarklets
+# Salesforce Bookmarks
+A collection of javascript bookmarks as shortcuts to load pages relative to the Org you are working in. If you [use Firefox](#bookmark-keywords), you can also add a keyword to the bookmark to use as a shortcut in the address bar.
 
 ![demo gif](assets/overview.gif?raw=true)
 
@@ -41,4 +42,8 @@ javascript:(function(){var RecordId = prompt('Record Id:');window.open(`/${Recor
 ```
 
 
-Add Shortcuts (Firefox)
+## Bookmark Keywords 
+_(Firefox)_
+
+![firefox gif](assets/firefox.gif?raw=true)
+![keyword setup](assets/keywords.png?raw=true)
