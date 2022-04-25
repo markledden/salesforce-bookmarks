@@ -1,6 +1,6 @@
 # Salesforce Bookmarklets
 
-![bookmarks overview](https:// "Salesforce Bookmarks Overview")
+![bookmarks overview](assets/overview.gif "Salesforce Bookmarks Overview")
 
 ### Switch to Classic
 ```js
