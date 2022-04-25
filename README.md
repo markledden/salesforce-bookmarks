@@ -2,7 +2,7 @@
 
 ### Switch to Classic
 ```js
-javascript:(functioßn(){window.open("/ltng/switcher?destination=classic","_blank");})()
+javascript:(function(){window.open("/ltng/switcher?destination=classic","_blank");})()
 ```
 
 ### Switch to Lightning
