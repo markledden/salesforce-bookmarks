@@ -1,9 +1,6 @@
 # Salesforce Bookmarklets
 
-<div style="width:90%;margin:0 auto;>
-    ![bookmarks overview](./assets/overview.gif?raw=true "Salesforce Bookmarks Overview")
-</div>
-
+![demo gif](assets/overview.gif?raw=true)
 
 ### Switch to Classic
 ```js
