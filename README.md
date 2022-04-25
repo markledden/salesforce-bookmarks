@@ -5,7 +5,7 @@
 javascript:(functioßn(){window.open("/ltng/switcher?destination=classic","_blank");})()
 ```
 
-### Switch to Lightningß
+### Switch to Lightning
 ```js
 javascript:(function(){window.open("/ltng/switcher?destination=lex-campaign","_blank");})()
 ```
