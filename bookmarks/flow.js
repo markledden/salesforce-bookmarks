@@ -1,0 +1,1 @@
+javascript:(function(){window.open("/lightning/setup/Flows/home","_blank");})()

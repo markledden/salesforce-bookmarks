@@ -1,0 +1,1 @@
+javascript:(function(){window.open("/ltng/switcher?destination=lex-campaign","_blank");})()

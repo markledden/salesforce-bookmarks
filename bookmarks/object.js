@@ -1,0 +1,1 @@
+javascript:(function(){window.open("/lightning/setup/ObjectManager/home","_blank");})()

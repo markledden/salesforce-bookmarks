@@ -1,0 +1,1 @@
+javascript:(function(){var RecordId = prompt('Record Id:');window.open(`/${RecordId}`,"_blank");})()

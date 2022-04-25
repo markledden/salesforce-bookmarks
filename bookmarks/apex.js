@@ -1,0 +1,1 @@
+javascript:(function(){window.open("/_ui/common/apex/debug/ApexExecAnon","_blank");})()
