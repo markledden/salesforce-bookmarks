@@ -1,4 +1,4 @@
-Inspire by: [source](https://medium.com/@saumyak.pandey/fast-track-your-salesforce-development-with-easy-bookmarks-6ea76ce54a5c)
+Inspired by: [source](https://medium.com/@saumyak.pandey/fast-track-your-salesforce-development-with-easy-bookmarks-6ea76ce54a5c)
 
 # Salesforce Bookmarks
 A collection of javascript bookmarks as shortcuts to load pages relative to the Org you are working in. If you [use Firefox](#bookmark-keywords), you can also add a keyword to the bookmark to use as a shortcut in the address bar.
